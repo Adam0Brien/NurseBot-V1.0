@@ -12,3 +12,8 @@ The following sensors are included in this design
 
 
 It is fully powered by a raspberry pi,and the full circuitry will be reduced to a PCB later on in order to reduce the overall size it will take up, the PCB also reduces the number of physical wires in the circuit which will in turn make it safer.
+
+
+<p align="center" Wiring Diagram >
+<img src="nursingBotDashboard.png" alt="Wiring Diagram" style="width:500px;height:600px;" class="center">
+</p>
