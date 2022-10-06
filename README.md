@@ -14,7 +14,7 @@ The following sensors are included in this design
 It is fully powered by a raspberry pi,and the full circuitry will be reduced to a PCB later on in order to reduce the overall size it will take up, the PCB also reduces the number of physical wires in the circuit which will in turn make it safer.
 
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 Below is the dashboard i created using Beebotte, It displays all vital signs/data of the child
 <p align="center" Wiring Diagram >
