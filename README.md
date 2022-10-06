@@ -15,7 +15,7 @@ It is fully powered by a raspberry pi,and the full circuitry will be reduced to 
 
 
 <p align="center" Wiring Diagram >
-<img src="nursingBotDashboard.png" alt="Dashboard" style="width:800px;height:600px;" class="center">
+<img src="nursingBotDashboard.png" alt="Dashboard" style="width:800px;height:500px;" class="center">
 </p>
 
 <p align="center" Wiring Diagram >
