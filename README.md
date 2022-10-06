@@ -14,10 +14,14 @@ The following sensors are included in this design
 It is fully powered by a raspberry pi,and the full circuitry will be reduced to a PCB later on in order to reduce the overall size it will take up, the PCB also reduces the number of physical wires in the circuit which will in turn make it safer.
 
 
+<br><br><br><br><br><br>
+
+Below is the dashboard i created using Beebotte, It displays all vital signs/data of the child
 <p align="center" Wiring Diagram >
 <img src="nursingBotDashboard.png" alt="Dashboard" style="width:800px;height:500px;" class="center">
 </p>
 
+As of right now the wiring is very messy as its in the early stages but this will be reduced to a PCB in the comming weeks
 <p align="center" Wiring Diagram >
 <img src="nursingBotWiring.jpg" alt="Dashboard" style="width:800px;height:600px;" class="center">
 </p>
