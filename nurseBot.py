@@ -31,8 +31,8 @@ gas = sensor.data.gas_resistance
 print('\n\nTemprature: '+ str(degrees_c))
 
 
-apiKey="beebotteApiKey"
-secretKey="secretBeebotteKey"
+apiKey="beebotteApiKey" # paste your api key here
+secretKey="secretBeebotteKey" # paste your secret key here
 bbt = BBT(apiKey, secretKey)
 
 
