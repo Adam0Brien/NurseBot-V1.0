@@ -31,3 +31,6 @@ As of right now the wiring is very messy as its in the early stages but this wil
 <p align="center" LCD Working >
 <img src="lcd.jpg" alt="lcd" style="width:800px;height:600px;" class="center">
 </p>
+
+live readings
+https://beebotte.com/dash/fc4e82f0-4599-11ed-aff5-19489407b7b2#.Y06nvnbMLD4
