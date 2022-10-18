@@ -1,5 +1,12 @@
 
 #!/usr/bin/python
+# Import necessary libraries for communication and display use
+import drivers
+
+# Load the driver and set it to "display"
+# If you use something from the driver library use the "display." prefix first
+display = drivers.Lcd()
+
 import RPi.GPIO as GPIO
 import time
 from pulsesensor import Pulsesensor
@@ -31,8 +38,8 @@ gas = sensor.data.gas_resistance
 print('\n\nTemprature: '+ str(degrees_c))
 
 
-apiKey="beebotteApiKey" # paste your api key here
-secretKey="secretBeebotteKey" # paste your secret key here
+apiKey="hYn5IyqJh7U9lfVdiSvSyJb1"
+secretKey="ExMVG1hBAbrE0MFpyEwJJGJXAlT6zYwr"
 bbt = BBT(apiKey, secretKey)
 
 
@@ -56,6 +63,9 @@ def startHeartbeatSensor():
             bpm = p.BPM
             if bpm > 0:
                 print("BPM: %d" % bpm)
+                
+                display.lcd_display_string("Heartbeat",1)
+                display.lcd_display_string(str(bpm), 2)
                 bpm_resource.write(bpm)
             else:
                 print(bpm)
@@ -83,8 +93,8 @@ def callback(channel):
 
 #GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime=300)  # let us know when the pin goes HIGH or LOW
 #GPIO.add_event_callback(channel, callback)  # assign function to GPIO PIN, Run function on change
-
-#startHeartbeatSensor()
-startBme680()
-#callback()
-    
+while True:
+    startHeartbeatSensor()
+    #startBme680()
+    #callback()
+        
