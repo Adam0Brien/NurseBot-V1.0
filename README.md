@@ -21,7 +21,8 @@ Below is the dashboard i created using Beebotte, It displays all vital signs/dat
 <img src="nursingBotDashboard.jpg" alt="Dashboard" style="width:820px;height:560px;" class="center">
 </p>
 
-As of right now the wiring is very messy as its in the early stages but this will be reduced to a PCB in the comming weeks
+# Proof of concept
+As of right now (week 4) the wiring is very messy as its in the early stages but this will be reduced to a PCB in the comming weeks
 <p align="center" Wiring Diagram >
 <img src="nursingBotWiring.jpg" alt="Dashboard" style="width:800px;height:600px;" class="center">
 </p>
