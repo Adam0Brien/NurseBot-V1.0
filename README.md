@@ -30,7 +30,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 # Week 5
 <p>As of week 5 the lcd screen has been connected using i2c, so now the bme680 and the lcd screen are both using lcd on the same channel. This wont cause any problems because i2c is a shared bus, multiple devices are allowed, as long as no two devices share the dame i2c address.</p>
 <p align="center" LCD Working >
-<img src="lcd.jpg" alt="lcd" class="center">
+<img src="lcd.jpg" alt="lcd" style="width:600px;height:400px;" class="center">
 </p>
 
 live readings
