@@ -34,7 +34,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 </p>
 
 
-//# Week 6 Alexa Integration
+
 
 live readings
 https://beebotte.com/dash/fc4e82f0-4599-11ed-aff5-19489407b7b2#.Y06nvnbMLD4
