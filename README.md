@@ -37,6 +37,12 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <img src="lcd.jpg" alt="lcd" style="width:700px;height:600px;" class="center">
 </p>
 
+# Week 6
+<p>At the start of week 6 i added an LDR(light dependant resistor) to my circuit and connected it to the MCP3008 so i can find out what light level is present around the infant this will be monitoring.</p>
+<p align="center" LDR >
+<img src="LDR.jpg" alt="ldr" style="width:700px;height:600px;" class="center">
+</p>
+
 
 
 
