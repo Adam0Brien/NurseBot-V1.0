@@ -51,7 +51,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 </p>
 
 <p align="center" LDR >
-<img src="pcb.png" alt="PCB" style="width:809px;height:480px;" class="center">
+<img src="pcb.png" alt="PCB" style="width:796px;height:712px;" class="center">
 </p>
 
 
