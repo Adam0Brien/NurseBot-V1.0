@@ -47,7 +47,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <p>Along with the LDR i also finished designing the schematic that will be used to make the PCB for this project, the goal here is to have a small board about the same size as the raspberry pi that will simply sit on top of it, similar to the Sense HAT</p>
 
 <p align="center" LDR >
-<img src="schematic.png" alt="ldr" style="width:700px;height:600px;" class="center">
+<img src="schematic.png" alt="ldr" style="width:809px;height:480px;" class="center">
 </p>
 
 
