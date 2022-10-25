@@ -22,36 +22,36 @@ It is fully powered by a raspberry pi,and the full circuitry will be reduced to 
 # Beebotte Dashboard
 Below is the dashboard i created using Beebotte, It displays all vital signs/data of the child
 <p align="center" Wiring Diagram >
-<img src="nursingBotDashboard.jpg" alt="Dashboard" style="width:820px;height:560px;" class="center">
+<img src="img/nursingBotDashboard.jpg" alt="Dashboard" style="width:820px;height:560px;" class="center">
 </p>
 
 # Proof of concept
 As of right now (week 4) the wiring is very messy as its in the early stages but this will be reduced to a PCB in the comming weeks
 <p align="center" Wiring Diagram >
-<img src="nursingBotWiring.jpg" alt="Dashboard" style="width:800px;height:600px;" class="center">
+<img src="img/nursingBotWiring.jpg" alt="wiring" style="width:800px;height:600px;" class="center">
 </p>
 
 # Week 5
 <p>As of week 5 the lcd screen has been connected using i2c, so now the bme680 and the lcd screen are both using lcd on the same channel. This wont cause any problems because i2c is a shared bus, multiple devices are allowed, as long as no two devices share the dame i2c address.</p>
 <p align="center" LCD Working >
-<img src="lcd.jpg" alt="lcd" style="width:700px;height:600px;" class="center">
+<img src="img/lcd.jpg" alt="lcd" style="width:700px;height:600px;" class="center">
 </p>
 
 # Week 6
 <p>At the start of week 6 i added an LDR(light dependant resistor) to my circuit and connected it to the MCP3008 so i can find out what light level is present around the infant this will be monitoring.</p>
 <p align="center" LDR >
-<img src="LDR.jpg" alt="ldr" style="width:700px;height:600px;" class="center">
+<img src="img/LDR.jpg" alt="ldr" style="width:700px;height:600px;" class="center">
 </p>
 <br>
 <br>
 <p>Along with the LDR i also finished designing the schematic that will be used to make the PCB for this project, the goal here is to have a small board about the same size as the raspberry pi that will simply sit on top of it, similar to the Sense HAT</p>
 
 <p align="center" LDR >
-<img src="schematic.png" alt="schematic" style="width:809px;height:480px;" class="center">
+<img src="img/schematic.png" alt="schematic" style="width:809px;height:480px;" class="center">
 </p>
 
 <p align="center" LDR >
-<img src="pcb.png" alt="PCB" style="width:796px;height:712px;" class="center">
+<img src="img/pcb.png" alt="PCB" style="width:796px;height:712px;" class="center">
 </p>
 
 
