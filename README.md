@@ -59,12 +59,12 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 # Week 9 
 <p>In week 9 the board arrived and was soldered together</p>
 <p align="center" LDR >
-<img src="img/board.jpg" alt="PCB" style="width:796px;height:712px;" class="center">
+<img src="img/board.jpg" alt="PCB" style="width:400px;height:400px;" class="center">
 </p>
 
 <p>Here is a comparison of the original wiring and the new PCB</p>
 <p align="center" LDR >
-<img src="img/board-Comparison.jpg" alt="PCB" style="width:796px;height:712px;" class="center">
+<img src="img/board-Comparison.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 
 live readings
