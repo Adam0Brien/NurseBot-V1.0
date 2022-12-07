@@ -2,7 +2,7 @@
 # IoT solution for the medical industry
 
 <p align="center" LDR >
-<img src="img/nurseCap.jpg" alt="PCB" style="width:400px;height:400px;" class="center">
+<img src="img/nurseCap.png" alt="PCB" style="width:400px;height:400px;" class="center">
 </p>
 
 This project is an IoT solution to support the fast-paced medical industry, the main objective of this project is to make looking after new-born babies as easy as possible on nurses, 
