@@ -25,7 +25,7 @@ It is fully powered by a raspberry pi,and the full circuitry will be reduced to 
 # Beebotte Dashboard
 Below is the dashboard i created using Beebotte, It displays all vital signs/data of the child
 <p align="center" Wiring Diagram >
-<img src="img/nursingBotDashboard.jpg" alt="Dashboard" style="width:820px;height:560px;" class="center">
+<img src="img/nursingBotDashboard.jpg" alt="Dashboard" style="width:600px;height:460px;" class="center">
 </p>
 
 # Proof of concept
