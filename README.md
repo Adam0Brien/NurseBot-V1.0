@@ -76,7 +76,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <img src="img/touch-lcd.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 <p align="center" LDR >
-<img src="img/lcd-NurseHat.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
+<img src="img/lcd-nurseHat.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 
 live readings
