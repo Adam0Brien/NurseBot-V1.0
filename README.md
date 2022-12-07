@@ -59,7 +59,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 
 
 
-# Week 9 
+# Week 9 (PCB Week)
 <p>In week 9 the board arrived and was soldered together</p>
 <p align="center" LDR >
 <img src="img/board.jpg" alt="PCB" style="width:400px;height:400px;" class="center">
