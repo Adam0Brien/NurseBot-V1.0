@@ -65,9 +65,15 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <img src="img/board.jpg" alt="PCB" style="width:400px;height:400px;" class="center">
 </p>
 
-<p>Here is a comparison of the original wiring and the new PCB</p>
+<p>Here is a comparison of the original wiring and the new PCB (Nurse Hat)</p>
 <p align="center" LDR >
 <img src="img/board-Comparison.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
+</p>
+
+
+<p>The NurseHats lcd connections can also be used on a touch screen display </p>
+<p align="center" LDR >
+<img src="img/touch-lcd.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 
 live readings
