@@ -71,7 +71,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 </p>
 
 
-<p>The NurseHats lcd connections can also be used on a touch screen display </p>
+<p>The NurseHats I2C connections can also be used on a touch screen display,lcd screen (or any other I2C device) </p>
 <p align="center" LDR >
 <img src="img/touch-lcd.jpg" alt="PCB" style="width:400px;height:300px;" class="center">
 </p>
