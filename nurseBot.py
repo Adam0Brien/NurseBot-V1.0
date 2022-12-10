@@ -53,8 +53,8 @@ light = interp(int(light_channel.value),[0,max_raw_light_num],[0,100])
 #print('\n\nTemprature: '+ str(degrees_c))
 
 
-apiKey="hYn5IyqJh7U9lfVdiSvSyJb1"
-secretKey="ExMVG1hBAbrE0MFpyEwJJGJXAlT6zYwr"
+apiKey="<YOUR API KEY HERE>"
+secretKey="<YOUR SECRET KEY HERE>"
 bbt = BBT(apiKey, secretKey)
 
 
