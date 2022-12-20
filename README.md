@@ -86,7 +86,7 @@ https://beebotte.com/dash/fc4e82f0-4599-11ed-aff5-19489407b7b2#.Y06nvnbMLD4
 
 <p>In week 10 an IFTTT Applet was created to notify if sound was detected</p>
 <p align="center" LDR >
-<img src="img/ifttt-app.png" alt="app" style="width:400px;height:400px;" class="center">
+<img src="img/ifttt-app.png" alt="app" style="width:500px;height:420px;" class="center">
 </p>
 
 
