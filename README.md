@@ -28,6 +28,9 @@ Below is the dashboard i created using Beebotte, It displays all vital signs/dat
 <img src="img/nursingBotDashboard.jpg" alt="Dashboard" style="width:600px;height:460px;" class="center">
 </p>
 
+live readings
+https://beebotte.com/dash/fc4e82f0-4599-11ed-aff5-19489407b7b2#.Y06nvnbMLD4
+
 # Proof of concept
 As of right now (week 4) the wiring is very messy as its in the early stages but this will be reduced to a PCB in the comming weeks
 <p align="center" Wiring Diagram >
@@ -78,9 +81,6 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <p align="center" LDR >
 <img src="img/lcd-nurseHat.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
-
-live readings
-https://beebotte.com/dash/fc4e82f0-4599-11ed-aff5-19489407b7b2#.Y06nvnbMLD4
 
 # Week 10 (IFTTT App)
 
