@@ -92,10 +92,11 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <img src="img/notif.jpg" alt="notification" style="width:500px;height:300px;" class="center">
 </p>
 
-#Week 11 
+# Week 11 (Enclosure and Youtube Video)
 </p>
 <p align="center" LDR >
 <img src="img/enclosure.jpg" alt="enclosure" style="width:500px;height:400px;" class="center">
 </p>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=vy5CGq7Up8w)
 
