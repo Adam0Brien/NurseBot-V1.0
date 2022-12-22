@@ -5,8 +5,6 @@ display = drivers.Lcd()
 
 import RPi.GPIO as GPIO
 import time
-from pulsesensor import Pulsesensor
-import time
 from beebotte import *
 import logging
 import bme680
