@@ -8,12 +8,6 @@ import time
 from beebotte import *
 import bme680
 
-
-
-
-
-
-
 try:
     sensor = bme680.BME680(bme680.I2C_ADDR_PRIMARY)
 except (RuntimeError, IOError):
