@@ -92,4 +92,10 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 <img src="img/notif.jpg" alt="notification" style="width:500px;height:300px;" class="center">
 </p>
 
+#Week 11 
+</p>
+<p align="center" LDR >
+<img src="img/enclosure.jpg" alt="enclosure" style="width:500px;height:300px;" class="center">
+</p>
+
 
