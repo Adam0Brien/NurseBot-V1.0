@@ -45,18 +45,18 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 
 # Week 6
 <p>At the start of week 6 i added an LDR(light dependant resistor) to my circuit and connected it to the MCP3008 so i can find out what light level is present around the infant this will be monitoring.</p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/LDR.jpg" alt="ldr" style="width:500px;height:400px;" class="center">
 </p>
 <br>
 <br>
 <p>Along with the LDR i also finished designing the schematic that will be used to make the PCB for this project, the goal here is to have a small board about the same size as the raspberry pi that will simply sit on top of it, similar to the Sense HAT</p>
 
-<p align="center" LDR >
+<p align="center">
 <img src="img/schematic.png" alt="schematic" style="width:509px;height:290px;" class="center">
 </p>
 
-<p align="center" LDR >
+<p align="center">
 <img src="img/pcb.png" alt="PCB" style="width:400px;height:312px;" class="center">
 </p>
 
@@ -64,39 +64,41 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 
 # Week 9 (PCB Week)
 <p>In week 9 the board arrived and was soldered together</p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/board.jpg" alt="PCB" style="width:400px;height:400px;" class="center">
 </p>
 
 <p>Here is a comparison of the original wiring and the new PCB (Nurse Hat)</p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/board-Comparison.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 
 
 <p>The NurseHats I2C connections can also be used on a touch screen display,lcd screen (or any other I2C device) </p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/touch-lcd.jpg" alt="PCB" style="width:400px;height:300px;" class="center">
 </p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/lcd-nurseHat.jpg" alt="PCB" style="width:500px;height:300px;" class="center">
 </p>
 
 # Week 10 (IFTTT App)
 
 <p>In week 10 an IFTTT Applet was created to notify if sound was detected</p>
-<p align="center" LDR >
+<p align="center">
 <img src="img/ifttt-app.png" alt="app" style="width:500px;height:420px;" class="center">
 </p>
-<p align="center" LDR >
+<p align="center" >
 <img src="img/notif.jpg" alt="notification" style="width:500px;height:300px;" class="center">
 </p>
 
 # Week 11 (Enclosure and Youtube Video)
 </p>
-<p align="center" LDR >
+<p align="center" Enclosure >
 <img src="img/enclosure.jpg" alt="enclosure" style="width:500px;height:400px;" class="center">
 </p>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=vy5CGq7Up8w)
 
+<p align="center" youtube video >
+[![Watch the video](https://www.youtube.com/watch?v=vy5CGq7Up8w)
+</p>
