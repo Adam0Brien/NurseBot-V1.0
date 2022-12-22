@@ -100,5 +100,6 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 
 
 <p align="center" youtube video >
+  <p>Demo Video</p>
   <li>https://www.youtube.com/watch?v=vy5CGq7Up8w</li>
 </p>
