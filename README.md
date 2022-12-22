@@ -95,7 +95,7 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 #Week 11 
 </p>
 <p align="center" LDR >
-<img src="img/enclosure.jpg" alt="enclosure" style="width:500px;height:300px;" class="center">
+<img src="img/enclosure.jpg" alt="enclosure" style="width:500px;height:400px;" class="center">
 </p>
 
 
