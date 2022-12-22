@@ -100,5 +100,5 @@ As of right now (week 4) the wiring is very messy as its in the early stages but
 
 
 <p align="center" youtube video >
-[![Watch the video](https://www.youtube.com/watch?v=vy5CGq7Up8w)
+[<img src="img/nurseCap.png" width="50%">](https://www.youtube.com/watch?v=vy5CGq7Up8w)
 </p>
