@@ -6,14 +6,10 @@ display = drivers.Lcd()
 import RPi.GPIO as GPIO
 import time
 from beebotte import *
-import logging
 import bme680
-import busio
-import digitalio
-import board
-import adafruit_mcp3xxx.mcp3008 as MCP
-from adafruit_mcp3xxx.analog_in import AnalogIn
-from numpy import interp
+
+
+
 
 
 
